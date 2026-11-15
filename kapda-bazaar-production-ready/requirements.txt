@@ -1,0 +1,2 @@
+# Kapda Bazaar Python Runtime Dependencies
+# Core engine uses Python 3.11+ standard library (sqlite3, json, math, hashlib, http.server)

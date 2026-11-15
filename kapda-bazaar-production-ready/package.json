@@ -1,0 +1,13 @@
+{
+  "name": "kapda-bazaar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kapda Bazaar \u2014 B2B Textile Supply Chain & AI Sourcing Platform",
+  "scripts": {
+    "start": "python3 -m http.server 3000 --directory frontend",
+    "test": "python3 tests/run_30_mandatory_tests.py"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
